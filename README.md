@@ -1,4 +1,5 @@
 # devops-aula02
 Daniel Radcliffe
-Morgan Freeman
 Sandra Bullock
+Morgan Freeman
+Will Smith
